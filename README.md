@@ -56,7 +56,7 @@ I'm a cybersecurity undergrad at Purdue University with a wide range of interest
 
 - I play and watch sports
 - My love for structure and discipline are applied in almost every hobby: crocheting, writing essays, reading papers, working out
-- I love matcha, coffee, and smoothies
+- I'm a hardcore star wars fan.
 
 <!---
 arc-1409/arc-1409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
