@@ -11,7 +11,7 @@ I'm a cybersecurity undergrad at Purdue University with a wide range of interest
 - Languages: Javascript, C, C++, SQL
 - Platforms: Postman, Google Cloud, GitHub
 - Skills: programming, CLIs, cybersecurity fundamentals, databases
-- Documentations: CWE, CVE, ATT&CK, IETF RFCs
+- Documentations: vulnerabilities (CWE, CVE, CVSS, OWASP top 10), attacking techniques (ATT&CK), frameworks (SOC 2, NIST, IETF RFCs)
 
 ## 🔍 I want to get into . . . 
 
