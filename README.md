@@ -15,7 +15,7 @@ I'm Pei-Yu, a cybersecurity undergrad at Purdue University with a wide range of 
 
 ## stats
 
-[![Pei-Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=arc-1409)](https://github.com/anuraghazra/github-readme-stats)
+[![Pei-Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=arc-1409)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=catpuccin_mocha)
 
 
 ## 🔍 I want to get into . . . 
