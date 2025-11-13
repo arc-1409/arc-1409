@@ -13,6 +13,11 @@ I'm a cybersecurity undergrad at Purdue University with a wide range of interest
 - Skills: programming, CLIs, cybersecurity fundamentals, databases
 - Documentations: vulnerabilities (CWE, CVE, CVSS, OWASP top 10), attacking techniques (ATT&CK), frameworks (SOC 2, NIST, IETF RFCs)
 
+## stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiarc-1409e=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🔍 I want to get into . . . 
 
 ### 🔐 Cybersecurity Focused
