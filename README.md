@@ -1,6 +1,6 @@
 Hello, weary traveler. 
 
-I'm a cybersecurity undergrad at Purdue University with a wide range of interests and a passion in learning about anything and everything. My projects and endless lists of ideas are not necessarily centered around cybersecurity but always deeply personal, as to me, coding isn't just a tool but a definite pathway to personal fulfillment and self-actualization. Coding is an art that I study and admire, and I aspire to one day do great things with it. 
+I'm Pei-Yu, a cybersecurity undergrad at Purdue University with a wide range of interests and a passion in learning about anything and everything. My projects and endless lists of ideas are not necessarily centered around cybersecurity but always deeply personal, as to me, coding isn't just a tool but a definite pathway to personal fulfillment and self-actualization. Coding is an art that I study and admire, and I aspire to one day do great things with it. 
 
 ## 🏗️ Currently working on . . .
 
@@ -15,7 +15,7 @@ I'm a cybersecurity undergrad at Purdue University with a wide range of interest
 
 ## stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiarc-1409e=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Pei-Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=arc-1409)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🔍 I want to get into . . . 
